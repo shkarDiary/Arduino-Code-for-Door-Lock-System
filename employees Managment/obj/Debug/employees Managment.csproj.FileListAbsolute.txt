@@ -1,0 +1,35 @@
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\employees Managment.exe.config
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\employees Managment.exe
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\employees Managment.pdb
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\Google.Protobuf.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\Google.Protobuf.pdb
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\MySql.Data.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\ZstdNet.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\comerr64.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\gssapi64.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\k5sprt64.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\krb5_64.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\krbcc64.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\System.Buffers.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\System.Memory.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees Managment.csproj.AssemblyReference.cache
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees Managment.csproj.SuggestedBindingRedirects.cache
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees Managment.exe.config
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees_Managment.FormEmployee.resources
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees_Managment.FormEmployeeInfo.resources
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees_Managment.Properties.Resources.resources
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees_Managment.UC_Attendance.resources
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees_Managment.UC_Employee.resources
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees Managment.csproj.GenerateResource.cache
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees Managment.csproj.CoreCompileInputs.cache
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees Managment.csproj.CopyComplete
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees Managment.exe
+C:\Users\sslem\Source\Repos\employees-Managment\employees Managment\obj\Debug\employees Managment.pdb
+C:\Users\sslem\source\repos\employees-Managment\employees Managment\obj\Debug\employees_Managment.UC_Reports.resources
+C:\Users\sslem\source\repos\employees-Managment\employees Managment\obj\Debug\employees_Managment.Payroll.resources
